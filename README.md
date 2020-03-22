@@ -1,2 +1,5 @@
 # ATMega32-Drivers
-Drivers for ATMega32/AVR
+#### This is a repository for peripheral and Module drivers for AVR Atmega32 using C.
+
+### List of drivers:
+  1. DIO
