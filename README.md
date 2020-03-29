@@ -3,3 +3,4 @@
 
 ### List of drivers:
   1. DIO
+  2. LCD
